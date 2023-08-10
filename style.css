@@ -1,0 +1,17 @@
+
+
+.link {
+    text-decoration: none;
+  }
+  
+  ul {
+    list-style-type: none;
+  }
+  
+  .list {
+    list-style: none;
+  }
+.footer-section {
+    background: #0A224A;
+  padding: 48px 60px 36px 60px  ;
+}
